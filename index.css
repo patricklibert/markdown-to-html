@@ -1,0 +1,65 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color:#DFE2E5;
+  }
+
+th, td {
+    padding: 15px;
+  }
+
+th {
+    text-align: left;
+  }
+
+.tdbackgoundcolor {
+  background-color: #F6F8FA;
+}
+
+.opencircle {
+  list-style-type: circle;
+}
+
+.blockc { 
+  background-color: #EBECEE;
+  border-radius: 5px;
+  margin: 0px;
+  padding: 2px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.fullcircle {
+  list-style-type: disc;
+}
+
+.fullsquare {
+  list-style-type: square;
+  
+  font-size: 25px;
+  
+
+}
+
+.fullsquarecolor {
+  color:#81848B;
+  display: list-item;
+  
+}
+
+.fullsquarecolorspan {
+  color: black;
+  font-size: 16px;
+  
+  vertical-align: 2px;
+  margin-left: -5px;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
